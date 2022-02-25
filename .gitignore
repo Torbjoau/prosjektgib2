@@ -79,6 +79,8 @@ docs/_build/
 # PyBuilder
 target/
 
+#virtualenv
+pyvenv.cfg
 
 ### Django ###
 *.log
